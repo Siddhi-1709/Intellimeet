@@ -5,5 +5,12 @@
     "email": "niharikaganguri26@gmail.com",
     "password": "$2a$10$Em09yoEnWTuVuTfsAIdrL.rs8v.C/tYPwqcLmRDW15O8MK9S4PLZu",
     "createdAt": "2026-05-20T16:29:02.093Z"
+  },
+  {
+    "id": "1780326390855",
+    "name": "siddhi",
+    "email": "siddhi.22311881@viit.ac.in",
+    "password": "$2a$10$fBT7kamErp./N8Pd0DRRGOO/t7p2ilYbBcffzzCbwuBJcN/.3sBQu",
+    "createdAt": "2026-06-01T15:06:30.855Z"
   }
 ]
