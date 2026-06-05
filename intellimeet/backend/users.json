@@ -12,5 +12,12 @@
     "email": "siddhi.22311881@viit.ac.in",
     "password": "$2a$10$fBT7kamErp./N8Pd0DRRGOO/t7p2ilYbBcffzzCbwuBJcN/.3sBQu",
     "createdAt": "2026-06-01T15:06:30.855Z"
+  },
+  {
+    "id": "1780327445123",
+    "name": "Siddhi",
+    "email": "siddhibholane17@gmail.com",
+    "password": "$2a$10$Ili8R6ba.f22RyMD2SYSsuN6EqVB//oFsE5D0yuYiebfraCt.IyZK",
+    "createdAt": "2026-06-01T15:24:05.124Z"
   }
 ]
